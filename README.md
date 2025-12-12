@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution URL](https://github.com/Tiwalolaoluwa-Olaolu/Tiwa-s-Version-Clipboard)
+- Solution URL: [https://tiwalola-clipboard-version.vercel.app/]
 
 ## My process
 After critically examining and inspecting the designs (both desktop and mobile), I was able to decide on the coding approach I wanted to employ for this particular website. Then the next step was to begin coding the solution for the designs, and making them responsive for ALL screen sizes.
